@@ -1,0 +1,1 @@
+в папку model загрузить модель "unet_model.pt" по адресу https://disk.yandex.ru/d/XLcl3oTB1mOWJQ
